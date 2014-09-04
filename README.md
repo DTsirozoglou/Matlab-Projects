@@ -17,8 +17,8 @@ the same training data. Classified the 3 image classes using discriminant analys
 In order to run we need the files: 
 
 1.	The code is structured such that there is one main file that we can run to reproduce all the results presented in our report. This main file is Exam which calls all the below files:
-2.	
-2.	The datasets for the First case:                                                               sunspotsTestStatML.dt, sunspotsTrainStatML.dt
+
+2.	The datasets for the First case: sunspotsTestStatML.dt, sunspotsTrainStatML.dt
 
 3.	The datasets for the Second case: quasarsStarsStatMLTest.dt,quasarsStarsStatMLTrain.dt
 
